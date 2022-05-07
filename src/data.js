@@ -3,7 +3,7 @@ const menu = [
         id: 1,
         title: 'buttermilk pancakes',
         category: 'breakfast',
-        price: 15.99,
+        price: 15.88,
         img: 'https://img.buzzfeed.com/thumbnailer-prod-us-east-1/51a9c5b156c84977ae50004b5ef622b2/finalFB.jpg',
         desc: `I'm baby woke mlkshk wolf bitters live-edge blue bottle, hammock freegan copper mug whatever cold-pressed `,
     },
